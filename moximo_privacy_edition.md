@@ -1,4 +1,4 @@
-#Moximo AG Privacy Edition
+# Moximo AG Privacy Edition
 
 - Email
   - SMTP (Postfix)

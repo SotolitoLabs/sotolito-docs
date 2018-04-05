@@ -1,5 +1,8 @@
 # Moximo AG Privacy Edition
 
+Appliance focused on sharing information without using
+external cloud services.
+
 - Email
   - SMTP (Postfix)
   - IMAP (courier-imap??)
